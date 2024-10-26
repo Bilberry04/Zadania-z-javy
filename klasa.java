@@ -19,5 +19,6 @@ public class klasa {
 
         System.out.println("Najwieksza liczba to: " + max);
         System.out.println("Najmniejsza liczba to: " + min);
+        //
     }
 }
