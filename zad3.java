@@ -1,6 +1,6 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
-public class klasa {
+public class zad3 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
